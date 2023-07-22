@@ -28,4 +28,7 @@ Necesito tres ***asteriscos para que esté en negrita y cursiva a la vez.***
 
 ![](imagenes/LIDE%20-%20Logo%201-19.png)
 
-![La Barbie](imagenes/barbie.webp){width="1500"}
+![La Barbie](imagenes/barbie.webp)
+
+La página web del New Dimensions es <https://newdimensions.academy/>\
+También puedes ingresar haciendo click [aquí](https://newdimensions.academy/).
